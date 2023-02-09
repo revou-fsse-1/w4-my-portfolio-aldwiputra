@@ -3,6 +3,7 @@
 In this explanation, I'll show the process of deploying a project to Netlify and setting up a custom domain acquired from a local Domain Registrar 🌐, connect it to Cloudfare and finally Netlify.
 
 <br/>
+
 ## :rocket: Deployment
 
 ### 1. Sign up to Netlify
@@ -20,6 +21,7 @@ If you don't have an account yet, you can sign up through a few options provided
   ![deploy-netlify](/assets/deploy-netlify.png)
 
 <br/>
+
 ## :globe_with_meridians: Custom Domain Setup
 
 ### 1. Buy domain through Domain Registrar
