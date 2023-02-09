@@ -57,5 +57,5 @@ After the domain setup is finished, it's finally time to add it to Netlify, so y
 
 ---
 
-Yeay my Personal Website is now live on **[https://aldwiputra.site](https://aldwiputra.site)**. Kindly check it out, and I hope you'll give me feedback on what could be improved ✌🏼.
+Yeay my Personal Website is now live at **[https://aldwiputra.site](https://aldwiputra.site)**. Kindly check it out, and I hope you'll give me feedback on what could be improved ✌🏼.
 ![aldwiputra-site](/assets/aldwiputra-site.png)
