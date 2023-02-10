@@ -5,8 +5,9 @@ In this explanation, I'll show the process of deploying a project to Netlify and
 <br/>
 
 ## :link: Links
-**Netlify Link: [https://aldwiputra-second.netlify.app](https://aldwiputra-second.netlify.app)<br/>**
-**With Custom Domain: [https://aldwiputra.site](https://aldwiputra.site)**
+**Netlify Subdomain: [https://aldwiputra-second.netlify.app](https://aldwiputra-second.netlify.app)<br/>**
+**Custom Domain: [https://aldwiputra.site](https://aldwiputra.site)**<br/>
+**Project Link: [https://github.com/aldwiputra/aldwiputra-portfolio](https://github.com/aldwiputra/aldwiputra-portfolio)**
 
 <br/>
 
